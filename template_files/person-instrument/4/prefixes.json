@@ -1,0 +1,1 @@
+{"input": "Musician:", "output": "Instrument:", "instructions": "You are given the name of a musician. Your task is to choose the instrument that the musician plays from \"guitar\", \"piano\", \"violin\", or \"trumpet\"."}
